@@ -7,6 +7,6 @@ public class hw01_2 {
 	}
 	
 	public static void faery(int n) {
-		
+		//
 	}
 }
